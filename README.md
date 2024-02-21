@@ -1,7 +1,9 @@
 ## Hello 👋
 
 ## About me
-I am a current student at technical school SENAC PENHA learning Web & Mobile Development.
+I am a current undergraduate student at UNIFAVIP Wyden FOR INFORMATION TECHNOLOGY.
+
+Sou atualmente uma estudante de graduação em Análise e Desenvolvimento de Sistemas na UNIFAVIP Wyden.
 
 ### Socials:
 
